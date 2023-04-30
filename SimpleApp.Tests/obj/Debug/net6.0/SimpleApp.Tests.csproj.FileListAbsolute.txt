@@ -106,3 +106,5 @@ F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests
 F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests\obj\Debug\net6.0\SimpleApp.Tests.pdb
 F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests\obj\Debug\net6.0\SimpleApp.Tests.genruntimeconfig.cache
 F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests\obj\Debug\net6.0\ref\SimpleApp.Tests.dll
+F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests\bin\Debug\net6.0\Castle.Core.dll
+F:\random shit\random projects\ASP.NET core\Unit Testing\Testing\SimpleApp.Tests\bin\Debug\net6.0\Moq.dll
